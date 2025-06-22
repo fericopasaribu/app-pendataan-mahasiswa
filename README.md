@@ -12,8 +12,8 @@
    npx expo start
    ```
 
-- Press a (for Android)
-- Press i (for iOS)
+   - Press a (for Android)
+   - Press i (for iOS)
 
 3. Install App
 
