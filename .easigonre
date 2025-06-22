@@ -1,0 +1,43 @@
+# Direktori sistem dan build
+.expo/
+.expo-shared/
+node_modules/
+android/
+.vscode/
+
+# File environment & cache
+.env
+.env.*
+*.tsbuildinfo
+*.eslintcache
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# Dokumen & metadata
+README.md
+LICENSE
+*.md
+
+# Folder/temp/assets tidak dibutuhkan dalam build
+assets/backup/
+assets/raw/
+assets/temp/
+assets/full-res/
+
+# Testing & laporan
+__tests__/
+tests/
+coverage/
+*.test.js
+*.spec.js
+
+# Build output
+*.apk
+*.aab
+*.zip
+*.tar.gz
+
+# Sistem file
+.DS_Store
+Thumbs.db
