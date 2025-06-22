@@ -3,19 +3,10 @@
 1. Install Dependencies
 
    ```bash
-   npm install
+   npm i
    ```
 
-2. Run App
-
-   ```bash
-   npx expo start
-   ```
-
-   - Press a (for Android)
-   - Press i (for iOS)
-
-3. Install App
+2. Install App
 
    Android 
    ```bash
