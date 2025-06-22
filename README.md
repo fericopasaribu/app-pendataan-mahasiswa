@@ -10,11 +10,11 @@
 
    Android 
    ```bash
-   npx run android
+   npm run android
    ```
 
     iOS 
    ```bash
-   npx run ios
+   npm run ios
    ```
 
