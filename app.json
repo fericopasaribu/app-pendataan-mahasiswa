@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "SQLite",
+    "slug": "02-sqlite",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo.png",
+    "scheme": "sqlite",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo.png",
+        "backgroundColor": "#a51c31"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.tamanata.sqlite"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/logo.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/logo.png",
+          "imageWidth": 256,
+          "resizeMode": "contain",
+          "backgroundColor": "#a51c31"
+        }
+      ],
+      "expo-sqlite"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "e28cfe0d-48de-4849-a81f-854d0394400d"
+      }
+    },
+    "owner": "fericopasaribu"
+  }
+}
