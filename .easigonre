@@ -1,5 +1,5 @@
 # Direktori sistem dan build
-.expo
+.expo/
 .expo-shared/
 node_modules/
 android/
