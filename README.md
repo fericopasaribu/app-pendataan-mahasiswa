@@ -1,12 +1,18 @@
 # Setup Project
 
-1. Install Dependencies
+1. Clone Project
+   
+   ```bash
+   git clone https://github.com/fericopasaribu/ReactNative-Mahasiswa.git
+   ```
+   
+3. Install Dependencies
 
    ```bash
    npm i
    ```
 
-2. Install App
+4. Install App
 
    Android 
    ```bash
