@@ -1,3 +1,9 @@
+# Tech Stack
+   - Main : React Native
+   - UI   : Nativewind, React Native Paper
+   - DB   : SQLite
+
+
 # Setup Project
 
 1. Clone Project
