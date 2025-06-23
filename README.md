@@ -1,5 +1,5 @@
 # Tech Stack
-   - Main : React Native
+   - PL   : React Native
    - UI   : Nativewind, React Native Paper
    - DB   : SQLite
 
