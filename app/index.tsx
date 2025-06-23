@@ -10,6 +10,7 @@ import React, { useEffect, useState } from "react";
 import {
   FlatList,
   Image,
+  Platform,
   RefreshControl,
   StyleSheet,
   Text,
@@ -164,14 +165,16 @@ export default function RootPage() {
               title="Share Data"
               leadingIcon="share"
             />
-            <Menu.Item
-              onPress={async () => {
-                closeMenu();
-                await backup();
-              }}
-              title="Backup Data"
-              leadingIcon="upload"
-            />
+            {Platform.OS === "android" && (
+              <Menu.Item
+                onPress={async () => {
+                  closeMenu();
+                  await backup();
+                }}
+                title="Backup Data"
+                leadingIcon="upload"
+              />
+            )}
             <Menu.Item
               onPress={async () => {
                 closeMenu();

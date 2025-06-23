@@ -1,6 +1,5 @@
-import { useEffect } from "react";
-import * as SQLite from "expo-sqlite";
 import { DB } from "@/constants/DB";
+import * as SQLite from "expo-sqlite";
 
 type Version = {
   version: number;
