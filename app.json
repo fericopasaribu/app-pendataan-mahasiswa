@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "SQLite",
-    "slug": "02-sqlite",
+    "name": "Mahasiswa",
+    "slug": "mahasiswa",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/logo.png",
-    "scheme": "sqlite",
+    "scheme": "mahasiswa",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -17,12 +17,12 @@
         "backgroundColor": "#a51c31"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.tamanata.sqlite"
+      "package": "com.tamanata.mahasiswa"
     },
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/logo.png"
+      "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
       "expo-router",
