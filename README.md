@@ -9,7 +9,7 @@
 1. Clone Project
    
    ```bash
-   git clone https://github.com/fericopasaribu/Mahasiswa.git
+   git clone https://github.com/fericopasaribu/pendataan-mahasiswa.git
    ```
    
 3. Install Dependencies
