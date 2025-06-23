@@ -9,7 +9,7 @@
 1. Clone Project
    
    ```bash
-   git clone https://github.com/fericopasaribu/ReactNative-Mahasiswa.git
+   git clone https://github.com/fericopasaribu/Mahasiswa.git
    ```
    
 3. Install Dependencies
