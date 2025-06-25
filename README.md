@@ -32,12 +32,12 @@ Start by opening your terminal or command prompt.
 
 ### 4. Install App
 
-   Android 
+  Android 
    ```bash
    npm run android
    ```
 
-    iOS 
+  iOS 
    ```bash
    npm run ios
    ```
