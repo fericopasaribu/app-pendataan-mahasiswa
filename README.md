@@ -1,6 +1,8 @@
 # Student Data Collection App
 
-A mobile application for managing student data built using React Native.
+Mobile application for managing student data built using React Native.
+
+---
 
 ## Tech Stack
 
@@ -21,8 +23,8 @@ Start by opening your terminal or command prompt.
 ### 2. Clone the Repository
 
    ```bash
-   git clone https://github.com/fericopasaribu/pendataan-mahasiswa.git
-   cd pendataan-mahasiswa
+   git clone https://github.com/fericopasaribu/app-pendataan-mahasiswa.git
+   cd app-pendataan-mahasiswa
    ```
 ### 3. Install Dependencies
 
